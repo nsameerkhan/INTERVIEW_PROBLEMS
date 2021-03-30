@@ -32,7 +32,6 @@ namespace problems
             List<int> l2 = new List<int>();
             int sum1 = 0;
             int sum2 = 0;
-            int count = 0;
 
             for (int i = 0; i < ma.Length / 2; i++)
             {
